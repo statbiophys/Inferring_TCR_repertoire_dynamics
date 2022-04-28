@@ -5,7 +5,7 @@ Each figure is generated thanks to the help of the Jupyter notebook file Figure(
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Lybrary Requirements
+# Library Requirements
 
 Python 3 
 
