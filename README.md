@@ -15,3 +15,8 @@ $ pip install noisets
 ```
 Library requirements : seaborn, scipy, scikit-learn
 
+Data-sets analyzed in this study can be found in the following references:
+
+[1] https://doi.org/10.1073/pnas.1809642115 SRA: PRJNA493983 for P3/P4.
+[2] https://doi.org/10.7554/eLife.53704 SRA: PRJNA577794 for P6.
+[3] https://doi.org/10.1016/j.vaccine.2018.02.027 SRA: SRP111073 for P9.
