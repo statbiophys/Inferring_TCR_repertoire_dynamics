@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd 
 from generator_tools import *
 from functools import partial
-from inference_tools import *
+from full_inference_tools import *
 import glob
 from multiprocessing import Pool, cpu_count
 
