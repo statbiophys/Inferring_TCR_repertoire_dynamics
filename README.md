@@ -14,3 +14,4 @@ NoisET is a python /3.6 software. It is available on PyPI and can be downloaded 
 $ pip install noisets
 ```
 Library requirements : seaborn, scipy, scikit-learn
+
