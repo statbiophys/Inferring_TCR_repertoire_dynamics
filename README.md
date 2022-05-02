@@ -17,8 +17,14 @@ Library requirements : seaborn, scipy, scikit-learn
 
 Data-sets analyzed in this study can be found in the following references:
 
-[1] https://doi.org/10.1073/pnas.1809642115 SRA: PRJNA493983 for P3/P4. 
+[1] https://clients.adaptivebiotech.com/pub/healthy-adult-time-course-TCRB for P1, P2 and P7
 
-[2] https://doi.org/10.7554/eLife.53704 SRA: PRJNA577794 for P6. 
+[2] https://doi.org/10.1073/pnas.1809642115 SRA: PRJNA493983 for P3 and P4. 
 
-[3] https://doi.org/10.1016/j.vaccine.2018.02.027 SRA: SRP111073 for P9.
+[3]  https://doi.org/10.4049/jimmunol.1600005 SRA: PRJNA316572 for P5 and P8.
+
+[4] https://doi.org/10.7554/eLife.53704 SRA: PRJNA577794 for P6. 
+
+[5] https://doi.org/10.1016/j.vaccine.2018.02.027 SRA: SRP111073 for P9.
+
+
